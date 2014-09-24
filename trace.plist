@@ -1,4 +1,4 @@
-<plist version="1.0">
+﻿<plist version="1.0">
 <dict>
 <key>items</key>
 <array>
@@ -37,9 +37,9 @@
 <key>kind</key>
 <string>software</string>
 <key>subtitle</key>
-<string>LIMR TRACE</string>
+<string>诚予国际</string>
 <key>title</key>
-<string>LIMR TRACE</string>
+<string>玛氏常规项目终端APP</string>
 </dict>
 </dict>
 </array>
