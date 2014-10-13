@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://data.dgchina.com/download/limr_icon.png</string>
+					<string>http://data.dgchina.com/download/hrxdkb_icon.PNG</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://data.dgchina.com/download/limr_icon.jpg</string>
+					<string>http://data.dgchina.com/download/hrxdkb_icon_full.PNG</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>诚予国际</string>
+				<string></string>
 				<key>title</key>
 				<string>华润小店快报</string>
 			</dict>
